@@ -1,0 +1,22 @@
+📌 Kasus 1: Aplikasi Kasir Mini Market
+
+Seorang programmer diminta membuat aplikasi kasir sederhana untuk Mini Market Sejahtera.
+Aplikasi ini harus bisa:
+
+Menyimpan nama barang, harga barang, dan jumlah yang dibeli.
+
+Menghitung total belanja.
+
+Menampilkan struk sederhana.
+
+Tugas Siswa:
+
+Tentukan nama variabel yang tepat untuk menyimpan data barang, harga, dan jumlah.
+
+Buat nama fungsi yang sesuai untuk:
+
+Menambahkan barang ke keranjang.
+
+Menghitung total belanja.
+
+Menampilkan struk belanja.
