@@ -1,0 +1,13 @@
+{
+  "name": "gumel/modul-praktik-php-structures",
+  "description": "Modul praktik: struktur data dan penggunaan library di PHP",
+  "require": {
+    "php": ">=7.4",
+    "fakerphp/faker": "^1.22"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
