@@ -21,11 +21,11 @@ Setiap pertemuan ada **file contoh** di folder `praktik/`.
 
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/username/modul-php-sederhana.git
+   git clone https://github.com/shinataputra/latihan-sertifikasi.git
    ```
 2. Masuk ke folder:
    ```bash
-   cd modul-php-sederhana/praktik
+   cd latihan-sertifikasi/
    ```
 3. Jalankan di browser dengan `http://localhost/...`  
    (gunakan XAMPP/Laragon/LAMP/WAMP).
@@ -36,7 +36,7 @@ Setiap pertemuan ada **file contoh** di folder `praktik/`.
 
 ### 1️⃣ Materi 1 - Dasar PHP & Variabel
 
-File: `praktik/pertemuan1_variabel.php`
+File: `praktik/materi_variabel.php`
 
 - Belajar echo, variabel string, integer.
 
@@ -51,7 +51,7 @@ Halo, saya [nama], dari kelas [kelas]
 
 ### 2️⃣ Materi 2 - Array
 
-File: `praktik/pertemuan2_array.php`
+File: `praktik/materi_array.php`
 
 - Belajar membuat array, looping dengan `foreach`.
 
@@ -62,7 +62,7 @@ Tambahkan 3 nama baru ke array dan tampilkan jumlah total siswa.
 
 ### 3️⃣ Materi 3 - Associative Array
 
-File: `praktik/pertemuan3_assoc.php`
+File: `praktik/materi_associative.php`
 
 - Key → Value (contoh: `['nama'=>'Budi','nilai'=>85]`).
 
@@ -74,7 +74,7 @@ Tampilkan rata-rata nilai mereka.
 
 ### 4️⃣ Materi 4 - Array Multi Dimensi
 
-File: `praktik/pertemuan4_multidimensi.php`
+File: `praktik/materi_multidimensi.php`
 
 - Array di dalam array (data siswa + mapel).
 
@@ -85,7 +85,7 @@ Buat tabel nilai 2 mata pelajaran untuk 3 siswa, lalu tampilkan semua datanya.
 
 ### 5️⃣ Materi 5 - Menggunakan Library/Komponen Pre-Existing
 
-File: `praktik/pertemuan5_library.php`
+File: `praktik/materi_library.php`
 
 - Menggunakan library `DateTime` bawaan PHP.
 
